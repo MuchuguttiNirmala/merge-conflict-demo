@@ -1,2 +1,3 @@
-This is a demo for merge-confilct.
-we are creating conflick to test merge-conflict-demo
+Hello,
+My name is Nirmala
+I'm working in Accenture since June 2021.
