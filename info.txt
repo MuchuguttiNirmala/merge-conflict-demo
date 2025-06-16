@@ -1,0 +1,2 @@
+This is a demo for merge-confilct.
+we are creating conflick to test merge-conflict-demo
