@@ -1,3 +1,7 @@
 Hi,
+<<<<<<< HEAD
 This is Nithyasree
+=======
+This is Manojkumar Reddy
+>>>>>>> 6ddcd9a350e9f62958a0e0de29cddba1eb13e374
 I'm working as a Associate Manager
