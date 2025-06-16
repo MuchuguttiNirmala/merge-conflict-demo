@@ -1,2 +1,4 @@
-This is a demo for merge-confilct.
-we are creating conflick to test merge-conflict-demo
+Hello,
+My name is Nithya
+I'm working as a cloud engineer
+
